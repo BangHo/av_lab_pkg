@@ -1,0 +1,59 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/banghojun/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/banghojun/ros2_ws/install/velodyne_pointcloud/include/**",
+        "/home/banghojun/ros2_ws/install/velodyne_driver/include/**",
+        "/home/banghojun/ros2_ws/install/velodyne_msgs/include/**",
+        "/home/banghojun/ros2_ws/install/velodyne_laserscan/include/**",
+        "/home/banghojun/ros2_ws/install/kbub_interfaces/include/**",
+        "/home/banghojun/ros2_ws/install/image_geometry/include/**",
+        "/home/banghojun/ros2_ws/install/cv_bridge/include/**",
+        "/home/banghojun/ws_moveit2/install/ros2_grasping/include/**",
+        "/home/banghojun/ws_moveit2/install/ros2_data/include/**",
+        "/home/banghojun/ws_moveit2/install/realsense2_camera/include/**",
+        "/home/banghojun/ws_moveit2/install/realsense2_camera_msgs/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_visual_tools/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_simple_controller_manager/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_servo/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_visualization/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_planning_interface/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_benchmarks/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_warehouse/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_robot_interaction/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_perception/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_move_group/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_planners_ompl/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_planning/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_ros_occupancy_map_monitor/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_kinematics/include/**",
+        "/home/banghojun/ws_moveit2/install/chomp_motion_planner/include/**",
+        "/home/banghojun/ws_moveit2/install/moveit_core/include/**",
+        "/home/banghojun/catkin_ws/src/astar/include/**",
+        "/home/banghojun/catkin_ws/src/av_lab_pkg/include/**",
+        "/home/banghojun/catkin_ws/src/kbub_velodyne_pkg/include/**",
+        "/home/banghojun/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/banghojun/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/banghojun/catkin_ws/src/velodyne/velodyne_driver/include/**",
+        "/home/banghojun/catkin_ws/src/velodyne_filter/include/**",
+        "/home/banghojun/catkin_ws/src/velodyne/velodyne_laserscan/include/**",
+        "/home/banghojun/catkin_ws/src/velodyne/velodyne_pcl/include/**",
+        "/home/banghojun/catkin_ws/src/velodyne/velodyne_pointcloud/include/**",
+        "/home/banghojun/catkin_ws/src/VISION/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
